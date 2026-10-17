@@ -134,34 +134,34 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #dea584; 
-  width: 31.269%;
+  width: 31.264%;
 " class="progress-item"></span><span style="
   background-color: #555555; 
-  width: 20.127%;
+  width: 20.142%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 15.952%;
+  width: 15.949%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 13.798%;
+  width: 13.796%;
 " class="progress-item"></span><span style="
   background-color: #0298c3; 
-  width: 5.618%;
+  width: 5.617%;
 " class="progress-item"></span><span style="
   background-color: #438eff; 
-  width: 3.195%;
+  width: 3.194%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
   width: 1.637%;
 " class="progress-item"></span><span style="
   background-color: #dd1100; 
-  width: 1.321%;
+  width: 1.320%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
   width: 1.286%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 1.190%;
+  width: 1.189%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
   width: 0.783%;
@@ -239,7 +239,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Rust</span>
-  <span class="percent">31.27%</span>
+  <span class="percent">31.26%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -255,7 +255,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">C</span>
-  <span class="percent">20.13%</span>
+  <span class="percent">20.14%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -319,7 +319,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Objective-C</span>
-  <span class="percent">3.20%</span>
+  <span class="percent">3.19%</span>
 </li>
 <li style="animation-delay: 1050ms;">
   <svg 
